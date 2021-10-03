@@ -34,4 +34,4 @@ There are 162 folders in the dataset. Each folder contains depression data for o
 - new_label.txt: SDS score multiplying 1.25
 
 ### How to download EATD-Corpus
- https://pan.baidu.com/s/1dIZBRZxLaFjLEsis47b7ag with extraction code 2022
+
