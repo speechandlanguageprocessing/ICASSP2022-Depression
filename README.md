@@ -16,4 +16,4 @@ Automatic Depression Detection: a GRU/ BiLSTM-based Model and An Emotional Audio
 
 ## Dataset
 
-- EATD-Corpus: can be downloaded at..
+- EATD-Corpus: download at https://pan.baidu.com/s/1dIZBRZxLaFjLEsis47b7ag with extraction code 2022
