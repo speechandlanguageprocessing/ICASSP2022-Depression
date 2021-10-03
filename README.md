@@ -13,3 +13,7 @@ Automatic Depression Detection: a GRU/ BiLSTM-based Model and An Emotional Audio
   - audio_gru_whole.py: train audio network 
   - text_bilstm_whole.py: train text network
   - fuse_net_whole.py: train fuse network
+
+## Dataset
+
+- EATD-Corpus: can be downloaded at..
