@@ -21,9 +21,8 @@ Automatic Depression Detection: a GRU/ BiLSTM-based Model and An Emotional Audio
 The EATD-Corpus is a dataset consist of audio and text files of 162 volunteers who received counseling.
 
 ### How to download
-The EATD-Corpus can be downloaded at https://pan.baidu.com/s/1hXPcjPcqV8ltEi255AjLdQ with extraction code 2022.
+The EATD-Corpus can be downloaded at https://1drv.ms/u/s!AsGVGqImbOwYhHRd5Q8vwHg1eKxw?e=fncLaK.
 
-Or, try this repository: https://github.com/Fancy-Block/EATD-Corpus
 
 ### How to use
 
